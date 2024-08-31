@@ -26,4 +26,3 @@ PCB Pinout
 
 PCB Assembly
 ![WT32-SC01 V1 2_Assembly](https://user-images.githubusercontent.com/84618082/185063017-20309a30-6813-4cc2-8eb3-bbce4c709852.jpg)
-
